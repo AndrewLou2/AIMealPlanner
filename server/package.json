@@ -17,4 +17,12 @@
     "mongoose": "^8.0.1",
     "nodemon": "^3.0.1"
   }
+},
+{
+  "name": “AIMealPlanner”,
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "yarn react-native start"
+  }
 }
