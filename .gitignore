@@ -1,0 +1,13 @@
+# macOS system files
+.DS_Store
+
+# Expo-related directories
+.expo/
+
+# Client-specific system files
+client/.DS_Store
+client/.expo/
+client/android/
+client/ios/
+client/node_modules/
+
