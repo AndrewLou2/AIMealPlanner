@@ -1,0 +1,27 @@
+{
+  "function": {
+    "aimealplannerlayer06f6bd08": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "LambdaLayer"
+    }
+  },
+  "parameters": {
+    "AMPLIFY_function_aimealplannerlayer06f6bd08_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "aimealplannerlayer06f6bd08"
+        }
+      ]
+    },
+    "AMPLIFY_function_aimealplannerlayer06f6bd08_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "aimealplannerlayer06f6bd08"
+        }
+      ]
+    }
+  }
+}

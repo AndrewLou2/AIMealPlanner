@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-aimealplanner-dev-150233-authRole",
+      "UnauthRoleArn": "arn:aws:iam::867149938724:role/amplify-aimealplanner-dev-150233-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::867149938724:role/amplify-aimealplanner-dev-150233-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-aimealplanner-dev-150233-deployment",
+      "UnauthRoleName": "amplify-aimealplanner-dev-150233-unauthRole",
+      "StackName": "amplify-aimealplanner-dev-150233",
+      "StackId": "arn:aws:cloudformation:us-east-1:867149938724:stack/amplify-aimealplanner-dev-150233/e7e8fe80-8d5f-11ee-8e62-12adc10573c9",
+      "AmplifyAppId": "d1ira780ga0i7k"
+    },
+    "categories": {
+      "function": {
+        "aimealplannerlayer06f6bd08": {
+          "deploymentBucketName": "amplify-aimealplanner-dev-150233-deployment",
+          "s3Key": "amplify-builds/aimealplannerlayer06f6bd08-LambdaLayerVersion8b4e93b3-build.zip"
+        }
+      }
+    }
+  }
+}
